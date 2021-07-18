@@ -1,0 +1,17 @@
+BUYER:
+{
+    "id": 789031882,
+    "nickname": "TESTJRPO0SRV",
+    "password": "qatest1261",
+    "site_status": "active",
+    "email": "test_user_45233151@testuser.com"
+}
+
+SELLER:
+{
+    "id": 789034836,
+    "nickname": "TESTVVSGOFH3",
+    "password": "qatest4094",
+    "site_status": "active",
+    "email": "test_user_79566598@testuser.com"
+}
