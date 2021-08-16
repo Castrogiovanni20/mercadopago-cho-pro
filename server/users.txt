@@ -15,5 +15,3 @@ SELLER:
     "site_status": "active",
     "email": "test_user_79566598@testuser.com"
 }
-
-test
